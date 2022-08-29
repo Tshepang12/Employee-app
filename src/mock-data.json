@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Jenny Chan",
+      "surname": "Waterfoot",
+      "idNumber": "3339627516089",
+      "position": "Supervisor"
+    },
+    {
+      "id": 2,
+      "name": "Jessica warren",
+      "surname": "Talle",
+      "idNumber": "0112117516089",
+      "position": "manager"
+    },
+    {
+      "id": 3,
+      "name": "Robyn cole",
+      "surname": "Barend",
+      "idNumber": "0112117516089",
+      "position": "manager"
+    }
+  ]
